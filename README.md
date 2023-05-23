@@ -11,3 +11,5 @@ Local de exposição do meu aprendizado com curso da ada tech
 * git restore (desfaz as alterações)
 * git restore --staged <.\nome_arquivo> (tira do staged e coloca em modified)
 * git diff (informa as alterações feitas)
+* git fetch (recupera as alterações recentes mas não mescla)
+* git diff <branch/repositorio> (ira mostrar as linhas que serão modificadas)
