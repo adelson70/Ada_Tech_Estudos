@@ -13,3 +13,5 @@ Local de exposição do meu aprendizado com curso da ada tech
 * git diff (informa as alterações feitas)
 * git fetch (recupera as alterações recentes mas não mescla)
 * git diff <repositorio/branch> (ira mostrar as linhas que serão modificadas)
+* git branch <nome_nova_ramificação> (cria uma nova branch-ramificação)
+* git checkout <nome_branch> (ira colocar o ponteiro na branch desejada)
